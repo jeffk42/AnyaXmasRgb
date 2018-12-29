@@ -1,0 +1,1 @@
+Christmas gift created with an Adafruit Matrix RGB 32x32 controlled by a Feather M0 (ATSAMD21G18 @ 48MHz). The display rotates through several different modes. If the button is pressed, it stays on the current mode until the button is pressed again.
